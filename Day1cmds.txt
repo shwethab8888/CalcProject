@@ -1,0 +1,17 @@
+Basic commands:
+1. pwd :print the present working directory.
+Windows: Folder
+Linux: Directory
+
+2. mkdir : to create the directory
+
+3. cd : change the directory
+4. touch : to create the empty file(file with no contient)
+5. rm : ro delete the file
+6. ls : listing the files and folders
+   ls -l :details of files and folders in long listing
+   ls -a : list all files and folders including hidden files
+   ls -la :hidden files and long listing files and folders showing
+7. rmdir/ rm -R <foldername> : -R = recursive
+8. . (cd.)-->Present directory
+9. .. (cd..) -->Parent directory 
